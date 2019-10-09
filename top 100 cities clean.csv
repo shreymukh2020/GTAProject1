@@ -1,0 +1,101 @@
+2012 rank,City,State,Longitude,Latitude
+1,New York,New York,40.6643 N,73.9385 W
+2,Los Angeles,California,34.0194 N,118.4108 W
+3,Chicago,Illinois,41.8376 N,87.6818 W
+4,Houston,Texas,29.7805 N,95.3863 W
+5,Philadelphia,Pennsylvania,40.0094 N,75.1333 W
+6,Phoenix,Arizona,33.5722 N,112.0880 W
+7,San Antonio,Texas,29.4724 N,98.5251 W
+8,San Diego,California,32.8153 N,117.1350 W
+9,Dallas,Texas,32.7757 N,96.7967 W
+10,San Jose,California,37.2969 N,121.8193 W
+11,Austin,Texas,30.3072 N,97.7560 W
+12,Jacksonville,Florida,30.337 N,81.6613 W
+13,Indianapolis,Indiana,39.7767 N,86.1459 W
+14,San Francisco,California,37.7751 N,122.4193 W
+15,Columbus,Ohio,39.9848 N,82.9850 W
+16,Fort Worth,Texas,32.7795 N,97.3463 W
+17,Charlotte,North Carolina,35.2087 N,80.8307 W
+18,Detroit,Michigan,42.383 N,83.1022 W
+19,El Paso,Texas,31.8484 N,106.4270 W
+20,Memphis,Tennessee,35.1035 N,89.9785 W
+21,Boston,Massachusetts,42.332 N,71.0202 W
+22,Boston,Washington,47.6205 N,122.3509 W
+23,Denver,Colorado,39.7618 N,104.8806 W
+24,Washington,District of Columbia,38.9041 N,77.0171 W
+25,Nashville,Tennessee,36.1718 N,86.7850 W
+26,Baltimore,Maryland,39.3002 N,76.6105 W
+27,Louisville,Kentucky,38.1781 N,85.6667 W
+28,Portland,Oregon,45.537 N,122.6500 W
+29,Oklahoma,Oklahoma,35.4671 N,97.5137 W
+30,Milwaukee,Wisconsin,43.0633 N,87.9667 W
+31,Las Vagas,Nevada,36.2277 N,115.2640 W
+32,Albuquerque,New Mexico,35.1056 N,106.6474 W
+33,Tucson,Arizona,32.1543 N,110.8711 W
+34,Fresno,California,36.7827 N,119.7945 W
+35,Sacramento,California,38.5666 N,121.4686 W
+36,Long Beach,California,33.8091 N,118.1553 W
+37,Kansas City,Missouri,39.1252 N,94.5511 W
+38,Mesa,Arizona,33.4019 N,111.7174 W
+39,Virginia Beach,Virginia,36.7793 N,76.0240 W
+40,Atlanta,Georgia,33.7629 N,84.4227 W
+41,Colorado Springs,Colorado,38.8673 N,104.7607 W
+42,Raleigh,North Carolina,35.8302 N,78.6414 W
+43,Omaha,Nebraska,41.2647 N,96.0419 W
+44,Miami,Florida,25.7752 N,80.2086 W
+45,Oakland,California,37.7699 N,122.2256 W
+46,Tulsa,Oklahoma,36.1279 N,95.9023 W
+47,Omaha,Minnesota,44.9633 N,93.2683 W
+48,Cleveland,Ohio,41.4781 N,81.6795 W
+49,Omaha,Kansas,37.6907 N,97.3427 W
+50,Arlington,Texas,32.7007 N,97.1247 W
+51,Omaha,Louisiana,30.0686 N,89.9390 W
+52,Bakersfield,California,35.3212 N,119.0183 W
+53,Tampa,Florida,27.9701 N,82.4797 W
+54,Honolulu,Hawai'i,21.3259 N,157.8453 W
+55,Anaheim,California,33.8555 N,117.7601 W
+56,Aurora,Colorado,32.7007 N,97.1247 W
+57,Santa Ana,California,33.7365 N,117.8826 W
+58,St. Louis,Missouri,38.6357 N,90.2446 W
+59,Riverside,California,33.9381 N,117.3932 W
+60,Corpus Christi,Texas,27.7543 N,97.1734 W
+61,Pittsburgh,Pennsylvania,40.4398 N,79.9766 W
+62,Lexington,Kentucky,38.0402 N,84.4584 W
+63,Anchorage,Alaska,61.1775 N,149.2744 W
+64,Stockton,California,37.9763 N,121.3133 W
+65,Cincinnati,Ohio,39.1399 N,84.5064 W
+66,Saint Paul,Minnesota,44.9489 N,93.1039 W
+67,Toledo,Ohio,41.6641 N,83.5819 W
+68,Newark,New Jersey,40.7242 N,74.1726 W
+69,Greensboro,North Carolina,36.0965 N,79.8271 W
+70,Plano,Texas,33.0508 N,96.7479 W
+71,Henderson,Nevada,36.0122 N,115.0375 W
+72,Lincoln,Nebraska,40.809 N,96.6804 W
+73,Buffalo,New York,42.8925 N,78.8597 W
+74,Fort Wayne,Indiana,41.0882 N,85.1439 W
+75,Jersey City,New Jersey,40.7114 N,74.0648 W
+76,Chula Vista,California,32.6277 N,117.0152 W
+77,Orlando,Florida,28.4159 N,81.2988 W
+78,St. Petersburg,Florida,27.762 N,82.6441 W
+79,Norfolk,Virginia,36.923 N,76.2446 W
+80,Chandler,Arizona,33.2829 N,111.8549 W
+81,Laredo,Texas,27.5477 N,99.4869 W
+82,Madison,Wisconsin,43.0878 N,89.4301 W
+83,Durham,North Carolina,35.981 N,78.9056 W
+84,Lubbock,Texas,33.5665 N,101.8867 W
+85,Winston-Salem,North Carolina,36.1033 N,80.2606 W
+86,Garland,Texas,32.9098 N,96.6304 W
+87,Glendale,Arizona,33.5331 N,112.1899 W
+88,Hialeah,Florida,25.8699 N,80.3029 W
+89,Reno,Nevada,39.4745 N,119.7765 W
+90,Baton Rouge,Louisiana,30.4485 N,91.1259 W
+91,Irvine,California,33.6784 N,117.7713 W
+92,Chesapeake,Virginia,36.6794 N,76.3018 W
+93,Irving,Texas,32.8577 N,96.9700 W
+94,Scottsdale,Arizona,33.6687 N,111.8237 W
+95,North Las Vegas,Nevada,36.283 N,115.0893 W
+96,Fremont,California,37.4944 N,121.9411 W
+97,Gilbert,Arizona,33.3102 N,111.7422 W
+98,San Bernardino,California,34.1393 N,117.2953 W
+99,Boise,Idaho,43.5985 N,116.2311 W
+100,Birmingham,Alabama,33.5274 N,86.7990 W
