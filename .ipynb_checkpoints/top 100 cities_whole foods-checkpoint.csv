@@ -1,0 +1,101 @@
+,2012 Rank,City,State,Latitude,Longitude,# of Whole Foods (15km radius)
+0,1,New York,New York,40.6643,-73.9385,17
+1,2,Los Angeles,California,34.0194,-118.4108,18
+2,3,Chicago,Illinois,41.8376,-87.6818,15
+3,4,Houston,Texas,29.7805,-95.3863,9
+4,5,Philadelphia,Pennsylvania,40.0094,-75.1333,9
+5,6,Phoenix,Arizona,33.5722,-112.088,3
+6,7,San Antonio,Texas,29.4724,-98.5251,1
+7,8,San Diego,California,32.8153,-117.135,3
+8,9,Dallas,Texas,32.7757,-96.7967,13
+9,10,San Jose,California,37.2969,-121.8193,7
+10,11,Austin,Texas,30.3072,-97.756,8
+11,12,Jacksonville,Florida,30.337,-81.6613,0
+12,13,Indianapolis,Indiana,39.7767,-86.1459,4
+13,14,San Francisco,California,37.7751,-122.4193,17
+14,15,Columbus,Ohio,39.9848,-82.985,4
+15,16,Fort Worth,Texas,32.7795,-97.3463,1
+16,17,Charlotte,North Carolina,35.2087,-80.8307,8
+17,18,Detroit,Michigan,42.383,-83.1022,1
+18,19,El Paso,Texas,31.8484,-106.427,1
+19,20,Memphis,Tennessee,35.1035,-89.9785,4
+20,21,Boston,Massachusetts,42.332,-71.0202,19
+21,22,Boston,Washington,47.6205,-122.3509,9
+22,23,Denver,Colorado,39.7618,-104.8806,8
+23,24,Washington,District of Columbia,38.9041,-77.0171,16
+24,25,Nashville,Tennessee,36.1718,-86.785,2
+25,26,Baltimore,Maryland,39.3002,-76.6105,2
+26,27,Louisville,Kentucky,38.1781,-85.6667,3
+27,28,Portland,Oregon,45.537,-122.65,11
+28,29,Oklahoma,Oklahoma,35.4671,-97.5137,1
+29,30,Milwaukee,Wisconsin,43.0633,-87.9667,2
+30,31,Las Vagas,Nevada,36.2277,-115.264,2
+31,32,Albuquerque,New Mexico,35.1056,-106.6474,2
+32,33,Tucson,Arizona,32.1543,-110.8711,2
+33,34,Fresno,California,36.7827,-119.7945,1
+34,35,Sacramento,California,38.5666,-121.4686,1
+35,36,Long Beach,California,33.8091,-118.1553,4
+36,37,Kansas City,Missouri,39.1252,-94.5511,1
+37,38,Mesa,Arizona,33.4019,-111.7174,0
+38,39,Virginia Beach,Virginia,36.7793,-76.024,1
+39,40,Atlanta,Georgia,33.7629,-84.4227,6
+40,41,Colorado Springs,Colorado,38.8673,-104.7607,1
+41,42,Raleigh,North Carolina,35.8302,-78.6414,9
+42,43,Omaha,Nebraska,41.2647,-96.0419,1
+43,44,Miami,Florida,25.7752,-80.2086,12
+44,45,Oakland,California,37.7699,-122.2256,6
+45,46,Tulsa,Oklahoma,36.1279,-95.9023,2
+46,47,Omaha,Minnesota,44.9633,-93.2683,7
+47,48,Cleveland,Ohio,41.4781,-81.6795,3
+48,49,Omaha,Kansas,37.6907,-97.3427,3
+49,50,Arlington,Texas,32.7007,-97.1247,1
+50,51,Omaha,Louisiana,30.0686,-89.939,1
+51,52,Bakersfield,California,35.3212,-119.0183,0
+52,53,Tampa,Florida,27.9701,-82.4797,8
+53,54,Honolulu,Hawai'i,21.3259,-157.8453,3
+54,55,Anaheim,California,33.8555,-117.7601,4
+55,56,Aurora,Colorado,32.7007,-97.1247,1
+56,57,Santa Ana,California,33.7365,-117.8826,5
+57,58,St. Louis,Missouri,38.6357,-90.2446,4
+58,59,Riverside,California,33.9381,-117.3932,0
+59,60,Corpus Christi,Texas,27.7543,-97.1734,0
+60,61,Pittsburgh,Pennsylvania,40.4398,-79.9766,2
+61,62,Lexington,Kentucky,38.0402,-84.4584,2
+62,63,Anchorage,Alaska,61.1775,-149.2744,0
+63,64,Stockton,California,37.9763,-121.3133,0
+64,65,Cincinnati,Ohio,39.1399,-84.5064,6
+65,66,Saint Paul,Minnesota,44.9489,-93.1039,4
+66,67,Toledo,Ohio,41.6641,-83.5819,5
+67,68,Newark,New Jersey,40.7242,-74.1726,11
+68,69,Greensboro,North Carolina,36.0965,-79.8271,5
+69,70,Plano,Texas,33.0508,-96.7479,4
+70,71,Henderson,Nevada,36.0122,-115.0375,2
+71,72,Lincoln,Nebraska,40.809,-96.6804,1
+72,73,Buffalo,New York,42.8925,-78.8597,1
+73,74,Fort Wayne,Indiana,41.0882,-85.1439,0
+74,75,Jersey City,New Jersey,40.7114,-74.0648,19
+75,76,Chula Vista,California,32.6277,-117.0152,1
+76,77,Orlando,Florida,28.4159,-81.2988,0
+77,78,St. Petersburg,Florida,27.761999999999997,-82.6441,3
+78,79,Norfolk,Virginia,36.923,-76.2446,0
+79,80,Chandler,Arizona,33.2829,-111.8549,2
+80,81,Laredo,Texas,27.5477,-99.4869,0
+81,82,Madison,Wisconsin,43.0878,-89.4301,1
+82,83,Durham,North Carolina,35.981,-78.9056,8
+83,84,Lubbock,Texas,33.5665,-101.8867,0
+84,85,Winston-Salem,North Carolina,36.1033,-80.2606,3
+85,86,Garland,Texas,32.9098,-96.6304,3
+86,87,Glendale,Arizona,33.5331,-112.1899,1
+87,88,Hialeah,Florida,25.8699,-80.3029,6
+88,89,Reno,Nevada,39.4745,-119.7765,1
+89,90,Baton Rouge,Louisiana,30.4485,-91.1259,4
+90,91,Irvine,California,33.6784,-117.7713,6
+91,92,Chesapeake,Virginia,36.6794,-76.3018,0
+92,93,Irving,Texas,32.8577,-96.97,4
+93,94,Scottsdale,Arizona,33.6687,-111.8237,2
+94,95,North Las Vegas,Nevada,36.283,-115.0893,2
+95,96,Fremont,California,37.4944,-121.9411,3
+96,97,Gilbert,Arizona,33.3102,-111.7422,5
+97,98,San Bernardino,California,34.1393,-117.2953,0
+98,99,Boise,Idaho,43.5985,-116.2311,1
+99,100,Birmingham,Alabama,33.5274,-86.799,2

@@ -1,101 +1,101 @@
 2012 Rank,City,State,Latitude,Longitude
-1,New York,New York,40.6643,73.9385
-2,Los Angeles,California,34.0194,118.4108
-3,Chicago,Illinois,41.8376,87.6818
-4,Houston,Texas,29.7805,95.3863
-5,Philadelphia,Pennsylvania,40.0094,75.1333
-6,Phoenix,Arizona,33.5722,112.0880
-7,San Antonio,Texas,29.4724,98.5251
-8,San Diego,California,32.8153,117.1350
-9,Dallas,Texas,32.7757,96.7967
-10,San Jose,California,37.2969,121.8193
-11,Austin,Texas,30.3072,97.7560
-12,Jacksonville,Florida,30.337,81.6613
-13,Indianapolis,Indiana,39.7767,86.1459
-14,San Francisco,California,37.7751,122.4193
-15,Columbus,Ohio,39.9848,82.9850
-16,Fort Worth,Texas,32.7795,97.3463
-17,Charlotte,North Carolina,35.2087,80.8307
-18,Detroit,Michigan,42.383,83.1022
-19,El Paso,Texas,31.8484,106.4270
-20,Memphis,Tennessee,35.1035,89.9785
-21,Boston,Massachusetts,42.332,71.0202
-22,Boston,Washington,47.6205,122.3509
-23,Denver,Colorado,39.7618,104.8806
-24,Washington,District of Columbia,38.9041,77.0171
-25,Nashville,Tennessee,36.1718,86.7850
-26,Baltimore,Maryland,39.3002,76.6105
-27,Louisville,Kentucky,38.1781,85.6667
-28,Portland,Oregon,45.537,122.6500
-29,Oklahoma,Oklahoma,35.4671,97.5137
-30,Milwaukee,Wisconsin,43.0633,87.9667
-31,Las Vagas,Nevada,36.2277,115.2640
-32,Albuquerque,New Mexico,35.1056,106.6474
-33,Tucson,Arizona,32.1543,110.8711
-34,Fresno,California,36.7827,119.7945
-35,Sacramento,California,38.5666,121.4686
-36,Long Beach,California,33.8091,118.1553
-37,Kansas City,Missouri,39.1252,94.5511
-38,Mesa,Arizona,33.4019,111.7174
-39,Virginia Beach,Virginia,36.7793,76.0240
-40,Atlanta,Georgia,33.7629,84.4227
-41,Colorado Springs,Colorado,38.8673,104.7607
-42,Raleigh,North Carolina,35.8302,78.6414
-43,Omaha,Nebraska,41.2647,96.0419
-44,Miami,Florida,25.7752,80.2086
-45,Oakland,California,37.7699,122.2256
-46,Tulsa,Oklahoma,36.1279,95.9023
-47,Omaha,Minnesota,44.9633,93.2683
-48,Cleveland,Ohio,41.4781,81.6795
-49,Omaha,Kansas,37.6907,97.3427
-50,Arlington,Texas,32.7007,97.1247
-51,Omaha,Louisiana,30.0686,89.9390
-52,Bakersfield,California,35.3212,119.0183
-53,Tampa,Florida,27.9701,82.4797
-54,Honolulu,Hawai'i,21.3259,157.8453
-55,Anaheim,California,33.8555,117.7601
-56,Aurora,Colorado,32.7007,97.1247
-57,Santa Ana,California,33.7365,117.8826
-58,St. Louis,Missouri,38.6357,90.2446
-59,Riverside,California,33.9381,117.3932
-60,Corpus Christi,Texas,27.7543,97.1734
-61,Pittsburgh,Pennsylvania,40.4398,79.9766
-62,Lexington,Kentucky,38.0402,84.4584
-63,Anchorage,Alaska,61.1775,149.2744
-64,Stockton,California,37.9763,121.3133
-65,Cincinnati,Ohio,39.1399,84.5064
-66,Saint Paul,Minnesota,44.9489,93.1039
-67,Toledo,Ohio,41.6641,83.5819
-68,Newark,New Jersey,40.7242,74.1726
-69,Greensboro,North Carolina,36.0965,79.8271
-70,Plano,Texas,33.0508,96.7479
-71,Henderson,Nevada,36.0122,115.0375
-72,Lincoln,Nebraska,40.809,96.6804
-73,Buffalo,New York,42.8925,78.8597
-74,Fort Wayne,Indiana,41.0882,85.1439
-75,Jersey City,New Jersey,40.7114,74.0648
-76,Chula Vista,California,32.6277,117.0152
-77,Orlando,Florida,28.4159,81.2988
-78,St. Petersburg,Florida,27.762,82.6441
-79,Norfolk,Virginia,36.923,76.2446
-80,Chandler,Arizona,33.2829,111.8549
-81,Laredo,Texas,27.5477,99.4869
-82,Madison,Wisconsin,43.0878,89.4301
-83,Durham,North Carolina,35.981,78.9056
-84,Lubbock,Texas,33.5665,101.8867
-85,Winston-Salem,North Carolina,36.1033,80.2606
-86,Garland,Texas,32.9098,96.6304
-87,Glendale,Arizona,33.5331,112.1899
-88,Hialeah,Florida,25.8699,80.3029
-89,Reno,Nevada,39.4745,119.7765
-90,Baton Rouge,Louisiana,30.4485,91.1259
-91,Irvine,California,33.6784,117.7713
-92,Chesapeake,Virginia,36.6794,76.3018
-93,Irving,Texas,32.8577,96.9700
-94,Scottsdale,Arizona,33.6687,111.8237
-95,North Las Vegas,Nevada,36.283,115.0893
-96,Fremont,California,37.4944,121.9411
-97,Gilbert,Arizona,33.3102,111.7422
-98,San Bernardino,California,34.1393,117.2953
-99,Boise,Idaho,43.5985,116.2311
-100,Birmingham,Alabama,33.5274,86.7990
+1,New York,New York,40.6643,-73.9385
+2,Los Angeles,California,34.0194,-118.4108
+3,Chicago,Illinois,41.8376,-87.6818
+4,Houston,Texas,29.7805,-95.3863
+5,Philadelphia,Pennsylvania,40.0094,-75.1333
+6,Phoenix,Arizona,33.5722,-112.0880
+7,San Antonio,Texas,29.4724,-98.5251
+8,San Diego,California,32.8153,-117.1350
+9,Dallas,Texas,32.7757,-96.7967
+10,San Jose,California,37.2969,-121.8193
+11,Austin,Texas,30.3072,-97.7560
+12,Jacksonville,Florida,30.337,-81.6613
+13,Indianapolis,Indiana,39.7767,-86.1459
+14,San Francisco,California,37.7751,-122.4193
+15,Columbus,Ohio,39.9848,-82.9850
+16,Fort Worth,Texas,32.7795,-97.3463
+17,Charlotte,North Carolina,35.2087,-80.8307
+18,Detroit,Michigan,42.383,-83.1022
+19,El Paso,Texas,31.8484,-106.4270
+20,Memphis,Tennessee,35.1035,-89.9785
+21,Boston,Massachusetts,42.332,-71.0202
+22,Boston,Washington,47.6205,-122.3509
+23,Denver,Colorado,39.7618,-104.8806
+24,Washington,District of Columbia,38.9041,-77.0171
+25,Nashville,Tennessee,36.1718,-86.7850
+26,Baltimore,Maryland,39.3002,-76.6105
+27,Louisville,Kentucky,38.1781,-85.6667
+28,Portland,Oregon,45.537,-122.6500
+29,Oklahoma,Oklahoma,35.4671,-97.5137
+30,Milwaukee,Wisconsin,43.0633,-87.9667
+31,Las Vagas,Nevada,36.2277,-115.2640
+32,Albuquerque,New Mexico,35.1056,-106.6474
+33,Tucson,Arizona,32.1543,-110.8711
+34,Fresno,California,36.7827,-119.7945
+35,Sacramento,California,38.5666,-121.4686
+36,Long Beach,California,33.8091,-118.1553
+37,Kansas City,Missouri,39.1252,-94.5511
+38,Mesa,Arizona,33.4019,-111.7174
+39,Virginia Beach,Virginia,36.7793,-76.0240
+40,Atlanta,Georgia,33.7629,-84.4227
+41,Colorado Springs,Colorado,38.8673,-104.7607
+42,Raleigh,North Carolina,35.8302,-78.6414
+43,Omaha,Nebraska,41.2647,-96.0419
+44,Miami,Florida,25.7752,-80.2086
+45,Oakland,California,37.7699,-122.2256
+46,Tulsa,Oklahoma,36.1279,-95.9023
+47,Omaha,Minnesota,44.9633,-93.2683
+48,Cleveland,Ohio,41.4781,-81.6795
+49,Omaha,Kansas,37.6907,-97.3427
+50,Arlington,Texas,32.7007,-97.1247
+51,Omaha,Louisiana,30.0686,-89.9390
+52,Bakersfield,California,35.3212,-119.0183
+53,Tampa,Florida,27.9701,-82.4797
+54,Honolulu,Hawai'i,21.3259,-157.8453
+55,Anaheim,California,33.8555,-117.7601
+56,Aurora,Colorado,32.7007,-97.1247
+57,Santa Ana,California,33.7365,-117.8826
+58,St. Louis,Missouri,38.6357,-90.2446
+59,Riverside,California,33.9381,-117.3932
+60,Corpus Christi,Texas,27.7543,-97.1734
+61,Pittsburgh,Pennsylvania,40.4398,-79.9766
+62,Lexington,Kentucky,38.0402,-84.4584
+63,Anchorage,Alaska,61.1775,-149.2744
+64,Stockton,California,37.9763,-121.3133
+65,Cincinnati,Ohio,39.1399,-84.5064
+66,Saint Paul,Minnesota,44.9489,-93.1039
+67,Toledo,Ohio,41.6641,-83.5819
+68,Newark,New Jersey,40.7242,-74.1726
+69,Greensboro,North Carolina,36.0965,-79.8271
+70,Plano,Texas,33.0508,-96.7479
+71,Henderson,Nevada,36.0122,-115.0375
+72,Lincoln,Nebraska,40.809,-96.6804
+73,Buffalo,New York,42.8925,-78.8597
+74,Fort Wayne,Indiana,41.0882,-85.1439
+75,Jersey City,New Jersey,40.7114,-74.0648
+76,Chula Vista,California,32.6277,-117.0152
+77,Orlando,Florida,28.4159,-81.2988
+78,St. Petersburg,Florida,27.762,-82.6441
+79,Norfolk,Virginia,36.923,-76.2446
+80,Chandler,Arizona,33.2829,-111.8549
+81,Laredo,Texas,27.5477,-99.4869
+82,Madison,Wisconsin,43.0878,-89.4301
+83,Durham,North Carolina,35.981,-78.9056
+84,Lubbock,Texas,33.5665,-101.8867
+85,Winston-Salem,North Carolina,36.1033,-80.2606
+86,Garland,Texas,32.9098,-96.6304
+87,Glendale,Arizona,33.5331,-112.1899
+88,Hialeah,Florida,25.8699,-80.3029
+89,Reno,Nevada,39.4745,-119.7765
+90,Baton Rouge,Louisiana,30.4485,-91.1259
+91,Irvine,California,33.6784,-117.7713
+92,Chesapeake,Virginia,36.6794,-76.3018
+93,Irving,Texas,32.8577,-96.9700
+94,Scottsdale,Arizona,33.6687,-111.8237
+95,North Las Vegas,Nevada,36.283,-115.0893
+96,Fremont,California,37.4944,-121.9411
+97,Gilbert,Arizona,33.3102,-111.7422
+98,San Bernardino,California,34.1393,-117.2953
+99,Boise,Idaho,43.5985,-116.2311
+100,Birmingham,Alabama,33.5274,-86.7990
