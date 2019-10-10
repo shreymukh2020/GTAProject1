@@ -1,0 +1,101 @@
+Rank,City,State,lon,lat,CityState,Median Sale,Median Rent
+1,New York,NY,-73.99,40.73,"New York, NY",391300,3000
+2,Los Angeles,CA,-118.24,34.05,"Los Angeles, CA",629800,3200
+3,Chicago,IL,-87.62,41.88,"Chicago, IL",246500,1750
+4,Dallas,TX,-96.8,32.78,"Dallas, TX",257600,1750
+5,Philadelphia,PA,-75.16,39.95,"Philadelphia, PA",218600,1600
+6,Washington,DC,-77.04,38.9,"Washington, DC",392400,2250
+7,Miami,FL,-80.19,25.77,"Miami, FL",270400,2100
+8,Atlanta,GA,-84.39,33.75,"Atlanta, GA",219100,1550
+9,Boston,MA,-71.06,42.36,"Boston, MA",438800,2600
+10,San Francisco,CA,-122.42,37.78,"San Francisco, CA",790800,3410
+11,Riverside,CA,-117.4,33.95,"Riverside, CA",351500,2195
+12,Phoenix,AZ,-112.08,33.45,"Phoenix, AZ",250700,1595
+13,Seattle,WA,-122.33,47.6,"Seattle, WA",468700,2400
+14,Saint Paul,MN,-93.1,44.95,"Saint Paul, MN",265600,1700
+15,San Diego,CA,-117.16,32.72,"San Diego, CA",557700,2723
+16,St. Louis,MO,-90.2,38.63,"St. Louis, MO",166300,1100
+17,Tampa,FL,-82.46,27.95,"Tampa, FL",217500,1575
+18,Baltimore,MD,-76.61,39.29,"Baltimore, MD",251200,1625
+19,Denver,CO,-104.98,39.74,"Denver, CO",399000,2100
+20,Pittsburgh,PA,-79.99,40.44,"Pittsburgh, PA",147800,1200
+21,Portland,OR,-97.32,27.88,"Portland, OR",386800,1995
+22,Charlotte,NC,-80.84,35.23,"Charlotte, NC",224400,1505
+23,Sacramento,CA,-121.49,38.58,"Sacramento, CA",400000,1975
+24,Orlando,FL,-81.38,28.54,"Orlando, FL",244700,1610
+25,Cincinnati,OH,-84.51,39.1,"Cincinnati, OH",170800,1353
+26,Cleveland,OH,-81.69,41.51,"Cleveland, OH",142000,1149
+27,Kansas City,MO,-94.56,39.08,"Kansas City, MO",218800,1245
+28,Las Vegas,NV,-115.15,36.17,"Las Vegas, NV",270800,1550
+29,Columbus,OH,-84.99,32.46,"Columbus, OH",203900,1350
+30,Indianapolis,IN,-86.16,39.77,"Indianapolis, IN",182200,1250
+31,San Jose,CA,-98.31,27.58,"San Jose, CA",1023800,3675
+32,Austin,TX,-97.74,30.27,"Austin, TX",290500,1700
+33,Virginia Beach,VA,-75.98,36.85,"Virginia Beach, VA",229300,1400
+34,Nashville,TN,-86.77,36.16,"Nashville, TN",260000,1695
+35,Providence,RI,-71.41,41.82,"Providence, RI",268200,1900
+36,Milwaukee,WI,-87.92,43.03,"Milwaukee, WI",218500,1200
+37,Jacksonville,FL,-81.66,30.33,"Jacksonville, FL",194600,1450
+38,Memphis,TN,-90.05,35.15,"Memphis, TN",156000,1115
+39,Oklahoma City,OK,-97.52,35.47,"Oklahoma City, OK",163900,1145
+40,Louisville,KY,-85.76,38.25,"Louisville, KY",177800,1200
+41,Hartford,CT,-72.69,41.76,"Hartford, CT",217300,1558
+42,Richmond,VA,-122.35,37.94,"Richmond, VA",242600,1400
+43,New Orleans,LA,-90.07,29.95,"New Orleans, LA",192300,1450
+44,Buffalo,NY,-78.88,42.89,"Buffalo, NY",156100,1250
+45,Raleigh,NC,-78.64,35.78,"Raleigh, NC",259400,1550
+46,Birmingham,AL,-86.8,33.52,"Birmingham, AL",185400,1027
+47,Rochester,NY,-92.46,44.02,"Rochester, NY",136800,1300
+48,Grand Rapids,MI,-85.67,42.96,"Grand Rapids, MI",196800,1350
+49,Tucson,AZ,-110.93,32.22,"Tucson, AZ",209600,1350
+50,Tulsa,OK,-95.99,36.16,"Tulsa, OK",156600,1050
+51,Fresno,CA,-119.78,36.74,"Fresno, CA",200000,1500
+52,Worcester,MA,-71.8,42.26,"Worcester, MA",261500,1500
+53,Stamford,CT,-73.54,41.05,"Stamford, CT",377100,2800
+54,Albany,NY,-73.75,42.65,"Albany, NY",199600,1700
+55,Omaha,NE,-95.94,41.26,"Omaha, NE",188600,1350
+56,New Haven,CT,-72.93,41.31,"New Haven, CT",210600,1600
+57,Bakersfield,CA,-119.02,35.37,"Bakersfield, CA",226800,1400
+58,Knoxville,TN,-83.92,35.96,"Knoxville, TN",183600,1348
+59,Greenville,SC,-82.4,34.85,"Greenville, SC",187400,1295
+60,Ventura,CA,-119.29,34.28,"Ventura, CA",596100,2950
+61,Allentown,PA,-75.47,40.6,"Allentown, PA",185800,1450
+62,El Paso,TX,-106.49,31.76,"El Paso, TX",146900,1175
+63,Baton Rouge,LA,-91.15,30.45,"Baton Rouge, LA",179200,1295
+64,Dayton,OH,-84.19,39.76,"Dayton, OH",124200,950
+65,Columbia,SC,-92.33,38.95,"Columbia, SC",149400,1200
+66,Greensboro,NC,-79.79,36.07,"Greensboro, NC",156800,1195
+67,Akron,OH,-81.52,41.08,"Akron, OH",140300,850
+68,Sarasota,FL,-82.53,27.34,"Sarasota, FL",263000,2000
+69,Little Rock,AR,-92.29,34.75,"Little Rock, AR",155200,1000
+70,Stockton,CA,-121.29,37.96,"Stockton, CA",357200,2000
+71,Charleston,SC,-81.63,38.35,"Charleston, SC",242800,1750
+72,Syracuse,NY,-76.15,43.05,"Syracuse, NY",141900,1350
+73,Colorado Springs,CO,-104.83,38.83,"Colorado Springs, CO",300300,1650
+74,Winston-Salem,NC,-80.24,36.1,"Winston-Salem, NC",155000,1249
+75,Wichita,KS,-97.34,37.69,"Wichita, KS",154000,900
+76,Springfield,MA,-89.64,39.8,"Springfield, MA",204800,1513
+77,Fort Myers,FL,-81.87,26.64,"Fort Myers, FL",223600,1700
+78,Boise City,ID,-102.51,36.73,"Boise City, ID",279200,1499
+79,Toledo,OH,-83.51,41.68,"Toledo, OH",126100,850
+80,Madison,WI,-89.38,43.07,"Madison, WI",254600,1600
+81,Lakeland,FL,-81.95,28.04,"Lakeland, FL",178400,1395
+82,Ogden,UT,-111.97,41.22,"Ogden, UT",285800,1500
+83,Daytona Beach,FL,-81.02,29.21,"Daytona Beach, FL",202200,1500
+84,Des Moines,IA,-93.6,41.59,"Des Moines, IA",199600,1250
+85,Youngstown,OH,-80.65,41.1,"Youngstown, OH",90600,750
+86,Augusta,GA,-81.97,33.47,"Augusta, GA",155300,1150
+87,Scranton,PA,-75.66,41.41,"Scranton, PA",110300,1000
+88,Harrisburg,PA,-76.89,40.27,"Harrisburg, PA",167500,1295
+89,Melbourne,FL,-80.61,28.08,"Melbourne, FL",213500,1513
+90,Chattanooga,TN,-85.31,35.05,"Chattanooga, TN",181900,1395
+91,Spokane,WA,-117.42,47.66,"Spokane, WA",238000,1397
+92,Lancaster,PA,-76.31,40.04,"Lancaster, PA",210400,1200
+93,Modesto,CA,-121,37.64,"Modesto, CA",311500,1650
+94,Durham,NC,-78.9,36,"Durham, NC",253300,1525
+95,Santa Rosa,CA,-122.71,38.44,"Santa Rosa, CA",603400,2800
+96,Lexington,KY,-84.5,38.05,"Lexington, KY",177800,1195
+97,Lafayette,LA,-92.02,30.22,"Lafayette, LA",165200,1100
+98,Lansing,MI,-84.56,42.73,"Lansing, MI",151500,985
+99,Fayetteville,AR,-94.16,36.06,"Fayetteville, AR",190600,1300
+100,Pensacola,FL,-87.22,30.42,"Pensacola, FL",189000,1275
