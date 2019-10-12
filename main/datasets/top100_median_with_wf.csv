@@ -2,19 +2,19 @@ City,State,lon,lat,CityState,Median Sale,Median Rent,# of Whole Foods (15km radi
 New York,NY,-73.99,40.73,"New York, NY",391300,3000,20
 Los Angeles,CA,-118.24,34.05,"Los Angeles, CA",629800,3200,9
 Chicago,IL,-87.62,41.88,"Chicago, IL",246500,1750,15
-Dallas,TX,-96.8,32.78,"Dallas, TX",257600,1750,11
+Dallas,TX,-96.8,32.78,"Dallas, TX",257600,1750,10
 Philadelphia,PA,-75.16,39.95,"Philadelphia, PA",218600,1600,7
 Washington,DC,-77.04,38.9,"Washington, DC",392400,2250,17
-Miami,FL,-80.19,25.77,"Miami, FL",270400,2100,10
-Atlanta,GA,-84.39,33.75,"Atlanta, GA",219100,1550,6
+Miami,FL,-80.19,25.77,"Miami, FL",270400,2100,9
+Atlanta,GA,-84.39,33.75,"Atlanta, GA",219100,1550,7
 Boston,MA,-71.06,42.36,"Boston, MA",438800,2600,20
 San Francisco,CA,-122.42,37.78,"San Francisco, CA",790800,3410,18
-Riverside,CA,-117.4,33.95,"Riverside, CA",351500,2195,0
+Riverside,CA,-117.4,33.95,"Riverside, CA",351500,2195,5
 Phoenix,AZ,-112.08,33.45,"Phoenix, AZ",250700,1595,4
-Seattle,WA,-122.33,47.6,"Seattle, WA",468700,2400,12
+Seattle,WA,-122.33,47.6,"Seattle, WA",468700,2400,8
 Saint Paul,MN,-93.1,44.95,"Saint Paul, MN",265600,1700,4
 San Diego,CA,-117.16,32.72,"San Diego, CA",557700,2723,1
-St. Louis,MO,-90.2,38.63,"St. Louis, MO",166300,1100,2
+St. Louis,MO,-90.2,38.63,"St. Louis, MO",166300,1100,4
 Tampa,FL,-82.46,27.95,"Tampa, FL",217500,1575,6
 Baltimore,MD,-76.61,39.29,"Baltimore, MD",251200,1625,2
 Denver,CO,-104.98,39.74,"Denver, CO",399000,2100,10
@@ -33,7 +33,7 @@ San Jose,CA,-98.31,27.58,"San Jose, CA",1023800,3675,0
 Austin,TX,-97.74,30.27,"Austin, TX",290500,1700,10
 Virginia Beach,VA,-75.98,36.85,"Virginia Beach, VA",229300,1400,1
 Nashville,TN,-86.77,36.16,"Nashville, TN",260000,1695,3
-Providence,RI,-71.41,41.82,"Providence, RI",268200,1900,5
+Providence,RI,-71.41,41.82,"Providence, RI",268200,1900,6
 Milwaukee,WI,-87.92,43.03,"Milwaukee, WI",218500,1200,2
 Jacksonville,FL,-81.66,30.33,"Jacksonville, FL",194600,1450,0
 Memphis,TN,-90.05,35.15,"Memphis, TN",156000,1115,5
@@ -43,11 +43,11 @@ Hartford,CT,-72.69,41.76,"Hartford, CT",217300,1558,4
 Richmond,VA,-122.35,37.94,"Richmond, VA",242600,1400,6
 New Orleans,LA,-90.07,29.95,"New Orleans, LA",192300,1450,5
 Buffalo,NY,-78.88,42.89,"Buffalo, NY",156100,1250,1
-Raleigh,NC,-78.64,35.78,"Raleigh, NC",259400,1550,9
+Raleigh,NC,-78.64,35.78,"Raleigh, NC",259400,1550,10
 Birmingham,AL,-86.8,33.52,"Birmingham, AL",185400,1027,3
 Rochester,NY,-92.46,44.02,"Rochester, NY",136800,1300,0
 Grand Rapids,MI,-85.67,42.96,"Grand Rapids, MI",196800,1350,0
-Tucson,AZ,-110.93,32.22,"Tucson, AZ",209600,1350,3
+Tucson,AZ,-110.93,32.22,"Tucson, AZ",209600,1350,6
 Tulsa,OK,-95.99,36.16,"Tulsa, OK",156600,1050,2
 Fresno,CA,-119.78,36.74,"Fresno, CA",200000,1500,1
 Worcester,MA,-71.8,42.26,"Worcester, MA",261500,1500,1
@@ -58,17 +58,17 @@ New Haven,CT,-72.93,41.31,"New Haven, CT",210600,1600,1
 Bakersfield,CA,-119.02,35.37,"Bakersfield, CA",226800,1400,0
 Knoxville,TN,-83.92,35.96,"Knoxville, TN",183600,1348,3
 Greenville,SC,-82.4,34.85,"Greenville, SC",187400,1295,1
-Ventura,CA,-119.29,34.28,"Ventura, CA",596100,2950,2
+Ventura,CA,-119.29,34.28,"Ventura, CA",596100,2950,1
 Allentown,PA,-75.47,40.6,"Allentown, PA",185800,1450,2
 El Paso,TX,-106.49,31.76,"El Paso, TX",146900,1175,1
-Baton Rouge,LA,-91.15,30.45,"Baton Rouge, LA",179200,1295,1
+Baton Rouge,LA,-91.15,30.45,"Baton Rouge, LA",179200,1295,4
 Dayton,OH,-84.19,39.76,"Dayton, OH",124200,950,3
 Columbia,SC,-92.33,38.95,"Columbia, SC",149400,1200,0
 Greensboro,NC,-79.79,36.07,"Greensboro, NC",156800,1195,5
 Akron,OH,-81.52,41.08,"Akron, OH",140300,850,1
 Sarasota,FL,-82.53,27.34,"Sarasota, FL",263000,2000,5
 Little Rock,AR,-92.29,34.75,"Little Rock, AR",155200,1000,3
-Stockton,CA,-121.29,37.96,"Stockton, CA",357200,2000,0
+Stockton,CA,-121.29,37.96,"Stockton, CA",357200,2000,2
 Charleston,SC,-81.63,38.35,"Charleston, SC",242800,1750,0
 Syracuse,NY,-76.15,43.05,"Syracuse, NY",141900,1350,5
 Colorado Springs,CO,-104.83,38.83,"Colorado Springs, CO",300300,1650,1
@@ -84,14 +84,14 @@ Ogden,UT,-111.97,41.22,"Ogden, UT",285800,1500,0
 Daytona Beach,FL,-81.02,29.21,"Daytona Beach, FL",202200,1500,5
 Des Moines,IA,-93.6,41.59,"Des Moines, IA",199600,1250,1
 Youngstown,OH,-80.65,41.1,"Youngstown, OH",90600,750,0
-Augusta,GA,-81.97,33.47,"Augusta, GA",155300,1150,5
+Augusta,GA,-81.97,33.47,"Augusta, GA",155300,1150,4
 Scranton,PA,-75.66,41.41,"Scranton, PA",110300,1000,0
-Harrisburg,PA,-76.89,40.27,"Harrisburg, PA",167500,1295,0
-Melbourne,FL,-80.61,28.08,"Melbourne, FL",213500,1513,0
+Harrisburg,PA,-76.89,40.27,"Harrisburg, PA",167500,1295,2
+Melbourne,FL,-80.61,28.08,"Melbourne, FL",213500,1513,5
 Chattanooga,TN,-85.31,35.05,"Chattanooga, TN",181900,1395,3
 Spokane,WA,-117.42,47.66,"Spokane, WA",238000,1397,0
 Lancaster,PA,-76.31,40.04,"Lancaster, PA",210400,1200,1
-Modesto,CA,-121.0,37.64,"Modesto, CA",311500,1650,0
+Modesto,CA,-121.0,37.64,"Modesto, CA",311500,1650,2
 Durham,NC,-78.9,36.0,"Durham, NC",253300,1525,8
 Santa Rosa,CA,-122.71,38.44,"Santa Rosa, CA",603400,2800,3
 Lexington,KY,-84.5,38.05,"Lexington, KY",177800,1195,2

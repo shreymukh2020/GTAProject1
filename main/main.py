@@ -158,6 +158,10 @@ plt.title("Median Home Sale Price vs. # of Whole Foods")
 plt.xlabel("# Whole Foods in 15 km Radius")
 plt.ylabel("Median Home Sale Price ($)\n")
 
+#add trendline for WF vs. Home Price
+z = np.polyfit(df["# of Whole Foods (15km radius)"], df["Median Sale"], 1)
+p = np.poly1d(z)
+plt.plot(df["# of Whole Foods (15km radius)"],p(df["# of Whole Foods (15km radius)"]),"r--")
 
 plt.savefig("images/MedianSale_WholeFoods_Scatter.png", bbox_inches = 'tight')
 
@@ -183,6 +187,11 @@ plt.xlim(0,25)
 plt.title("Median Home Rent Price vs. # of Whole Foods")
 plt.xlabel("# Whole Foods in 15 km Radius")
 plt.ylabel("Median Home Rent Price ($)\n")
+
+#add trendline for WF vs. Rent
+z = np.polyfit(df["# of Whole Foods (15km radius)"], df["Median Rent"], 1)
+p = np.poly1d(z)
+plt.plot(df["# of Whole Foods (15km radius)"],p(df["# of Whole Foods (15km radius)"]),"r--")
 
 
 plt.savefig("images/MedianRent_WholeFoods_Scatter.png", bbox_inches = 'tight')
